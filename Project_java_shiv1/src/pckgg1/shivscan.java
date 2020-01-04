@@ -35,6 +35,6 @@ public class shivscan
  		{
  			System.out.println("Please Enter value of x1:");
  			Scanner redscan=new Scanner(System.in);
- 			redscan.hasNextInt()
+ 			
  		}
 }
